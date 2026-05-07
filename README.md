@@ -2,8 +2,8 @@
 # TP Organización Empresarial
 
 ## Integrantes
-- Persona 1
-- Persona 2
+- Angel Sanchez
+- Valentino Altamira
 
 ## Escenario
 Análisis de ventas
